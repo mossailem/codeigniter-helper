@@ -1,8 +1,7 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
 
 /**
- * Original script: https://www.w3schools.com/php/php_file_upload.asp
- * Edited by Muslim Aswaja (23 September 2022)
+ * Created by Muslim Aswaja (23 September 2022)
  * Upload form check valid GIF/JPEG/PNG image
  */
 
